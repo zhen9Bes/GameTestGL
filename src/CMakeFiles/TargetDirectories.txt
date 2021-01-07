@@ -1,0 +1,7 @@
+C:/Users/Jacky/Desktop/GameTestGL/src/CMakeFiles/GameTestGL.dir
+C:/Users/Jacky/Desktop/GameTestGL/src/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jacky/Desktop/GameTestGL/src/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Jacky/Desktop/GameTestGL/src/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jacky/Desktop/GameTestGL/src/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Jacky/Desktop/GameTestGL/src/external/glad/CMakeFiles/glad.dir
+C:/Users/Jacky/Desktop/GameTestGL/src/external/glad/CMakeFiles/ALL_BUILD.dir
